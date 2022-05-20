@@ -16,7 +16,7 @@
 <img src="images/Galaxycat.jpeg?raw=true"/>
 
 ---
-[Project 4 A Ripped Effect Portrait ](http://example.com/)
+[Project 4 ARippedEffectPortrait](http://example.com/)
 <img src="ARippedEffectPortrait.jpg?raw=true"/>
 
 ---
@@ -28,7 +28,7 @@
 <img src="images/WZ3DPopOuteffect.JPG?raw=true"/>
 
 ---
-[Project 7 Liquid/Graffiti style image](http://example.com/)
+[Project 7 Liquid/Graffiti styleimage](http://example.com/)
 <img src="Liquid/Graffiti styleimage.jpg?raw=true"/>
 
 ---
