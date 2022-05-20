@@ -12,12 +12,12 @@
 <img src="images/Cool Retro Collage .jpg?raw=true"/>
 
 ---
-[Project 3 Galaxy cat](http://example.com/)
-<img src="images/Galaxy cat.jpg?raw=true"/>
+[Project 3 Galaxycat](http://example.com/)
+<img src="images/Galaxycat.jpeg?raw=true"/>
 
 ---
 [Project 4 A Ripped Effect Portrait ](http://example.com/)
-<img src="images/dummy_A Ripped Effect Portrait .jpg?raw=true"/>
+<img src="ARippedEffectPortrait.jpg?raw=true"/>
 
 ---
 [Project 5 Double Exposure Effect](http://example.com/)
@@ -25,11 +25,11 @@
 
 ---
 [Project 6 WZ 3D Pop Out effect](http://example.com/)
-<img src="images/WZ 3D Pop Out effect.jpg?raw=true"/>
+<img src="images/WZ3DPopOuteffect.JPG?raw=true"/>
 
 ---
-[Project 7 Liquid / Graffiti style image](http://example.com/)
-<img src="images/Liquid / Graffiti style image.jpg?raw=true"/>
+[Project 7 Liquid/Graffiti style image](http://example.com/)
+<img src="Liquid/Graffiti styleimage.jpg?raw=true"/>
 
 ---
 
