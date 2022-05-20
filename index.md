@@ -16,8 +16,8 @@
 <img src="images/Galaxycat.jpeg?raw=true"/>
 
 ---
-[Project 4 ARippedEffectPortrait](http://example.com/)
-<img src="ARippedEffectPortrait.jpg?raw=true"/>
+[Project 4 Graffitistyleimage](http://example.com/)
+<img src="Graffitistyleimage.jpg?raw=true"/>
 
 ---
 [Project 5 Double Exposure Effect](http://example.com/)
@@ -28,8 +28,8 @@
 <img src="images/WZ3DPopOuteffect.JPG?raw=true"/>
 
 ---
-[Project 7 Liquid/Graffiti styleimage](http://example.com/)
-<img src="Liquid/Graffiti styleimage.jpg?raw=true"/>
+[Project 7 RippedEffectPortrait](http://example.com/)
+<img src="RippedEffectPortrait.jpg?raw=true"/>
 
 ---
 
